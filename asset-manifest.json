@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.c539b3dd.css",
-    "main.js": "/static/js/main.3bbcc060.js",
-    "static/media/portfolio-6.png": "/static/media/portfolio-6.4a10fac7d271e87859e9.png",
-    "static/media/portfolio-2.png": "/static/media/portfolio-2.33d06b368b4e6395030e.png",
-    "static/media/portfolio-4.png": "/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
-    "static/media/portfolio-1.png": "/static/media/portfolio-1.b33adf772d54ab33e953.png",
-    "static/media/portfolio-5.png": "/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
-    "static/media/portfolio-3.png": "/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
-    "static/media/crop.jpg": "/static/media/crop.4937a52fe8cee53e2f48.jpg",
-    "static/media/ui-design.png": "/static/media/ui-design.c4acd455fc2040eddcc8.png",
-    "static/media/instagram.png": "/static/media/instagram.0bcd1dcb7d853c327af7.png",
-    "index.html": "/index.html",
-    "main.c539b3dd.css.map": "/static/css/main.c539b3dd.css.map",
-    "main.3bbcc060.js.map": "/static/js/main.3bbcc060.js.map"
+    "main.css": "/MV_Portfolio/static/css/main.c539b3dd.css",
+    "main.js": "/MV_Portfolio/static/js/main.9155e0dc.js",
+    "static/media/portfolio-6.png": "/MV_Portfolio/static/media/portfolio-6.4a10fac7d271e87859e9.png",
+    "static/media/portfolio-2.png": "/MV_Portfolio/static/media/portfolio-2.33d06b368b4e6395030e.png",
+    "static/media/portfolio-4.png": "/MV_Portfolio/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
+    "static/media/portfolio-1.png": "/MV_Portfolio/static/media/portfolio-1.b33adf772d54ab33e953.png",
+    "static/media/portfolio-5.png": "/MV_Portfolio/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
+    "static/media/portfolio-3.png": "/MV_Portfolio/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
+    "static/media/crop.jpg": "/MV_Portfolio/static/media/crop.4937a52fe8cee53e2f48.jpg",
+    "static/media/ui-design.png": "/MV_Portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/MV_Portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/MV_Portfolio/index.html",
+    "main.c539b3dd.css.map": "/MV_Portfolio/static/css/main.c539b3dd.css.map",
+    "main.9155e0dc.js.map": "/MV_Portfolio/static/js/main.9155e0dc.js.map"
   },
   "entrypoints": [
     "static/css/main.c539b3dd.css",
-    "static/js/main.3bbcc060.js"
+    "static/js/main.9155e0dc.js"
   ]
 }
