@@ -59,15 +59,29 @@
     height: 1rem;
 }
 
-@media screen and (max-width:840px){
+@media screen and (max-width:980px){
     .bg {
-        right: -10vw;
+        right: -1vw;
+        left: 65vw;
     }
     .introcontent {
-        font-size: 10vw;
+        font-size: 5vw;
     }
     .hello{
-        font-size: 4.5vw;
+        font-size: 2vw;
+    }
+}
+
+@media screen and (max-width:840px){
+    .bg {
+        right: -1vw;
+        left: 60vw;
+    }
+    .introcontent {
+        font-size: 5vw;
+    }
+    .hello{
+        font-size: 2vw;
     }
 }
 
@@ -75,5 +89,17 @@
 {
     .bg {
         right: -20vw;
+        left: 30vw;
+        height: 50vh;
+    }
+    .introcontent {
+        font-size: 5vw;
+        margin-top: 90px;
+    }
+    .hello{
+        font-size: 3vw;
+    }
+    .intropara{
+        font-size: 1.5vh;
     }
 }
